@@ -1,0 +1,82 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class SuffixList {
+
+    String tmp=".net\n" +
+            ".org\n" +
+            ".edu\n" +
+            ".mil\n" +
+            ".int\n" +
+            ".biz\n" +
+            ".info\n" +
+            ".pro\n" +
+            ".name\n" +
+            ".museum\n" +
+            ".travel\n" +
+            ".co\n" +
+            ".me\n" +
+            ".cn\n" +
+            ".hk\n" +
+            ".tw\n" +
+            ".uk\n" +
+            ".de\n" +
+            ".jp\n" +
+            ".fr\n" +
+            ".au\n" +
+            ".in\n" +
+            ".ru\n" +
+            ".ca\n" +
+            ".xyz\n" +
+            ".online\n" +
+            ".store\n" +
+            ".tech\n" +
+            ".app\n" +
+            ".site\n" +
+            ".space\n" +
+            ".club\n" +
+            ".fun\n" +
+            ".life\n" +
+            ".health\n" +
+            ".shop\n" +
+            ".market\n" +
+            ".host\n" +
+            ".press\n" +
+            ".ai\n" +
+            ".io\n" +
+            ".tv\n" +
+            ".fm\n" +
+            ".wiki\n" +
+            ".guru\n" +
+            ".cc\n" +
+            ".tm\n" +
+            ".cd\n" +
+            ".li\n" +
+            ".audio\n" +
+            ".video\n" +
+            ".games\n" +
+            ".photography\n" +
+            ".design\n" +
+            ".blog\n" +
+            ".local\n" +
+            ".lan\n" +
+            ".intranet\n" +
+            ".internal\n" +
+            ".corp\n" +
+            ".test\n" +
+            ".dev\n" +
+            ".work\n" +
+            ".private\n" +
+            ".db\n" +
+            ".mail\n" +
+            ".ftp\n" +
+            ".gov\n" +
+            ".tel\n" +
+            ".mobi\n" +
+            ".jobs\n" +
+            ".aero\n" +
+            ".coop\n" +
+            ".xxx";
+    String[] suffix=tmp.split("\n");
+
+}
